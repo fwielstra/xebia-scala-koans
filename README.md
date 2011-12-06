@@ -6,3 +6,5 @@ EPIC INSTRUCTIONS
     $ chmod +x ./sbt
     $ ./sbt
     > ~test-only org.functiolkoans.forscala.Koans
+
+Then do what it says.
