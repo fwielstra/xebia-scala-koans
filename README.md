@@ -5,6 +5,6 @@ EPIC INSTRUCTIONS
     $ cd xebia-scala-koans
     $ chmod +x ./sbt
     $ ./sbt
-    > ~test-only org.functiolkoans.forscala.Koans
+    > ~test-only org.functionalkoans.forscala.Koans
 
 Then do what it says.
