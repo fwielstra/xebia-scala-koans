@@ -1,0 +1,15 @@
+lib_managed
+project/boot
+project/build/target
+scalakoansexercises.iws
+scalakoansexercises.ipr
+scalakoansexercises.iml
+target
+.*\.DS_Store
+.*\.zip
+scala-koans.iml
+scala-koans.ipr
+scala-koans.iws
+.idea*
+.classpath
+.project
